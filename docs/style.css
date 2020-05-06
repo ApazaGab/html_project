@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+}
+
+div{
+	background-color: red !important; /*color resaltado e important le prioridad*/
+	font-size: 45px; /*tamaño de letra*/
+
+}
+.titule{  /*este es la mejor forma*/
+	background-color: blue;
+	font-size: 15px;
+	/*margin: 5px 15px 5px 15px; */
+	margin-bottom: 25px;
+	text-align: center;
+	width: 15%;
+	margin: 35px auto;
+	border: 2px solid black;
+	padding: 10px;
+}
+.box{
+
+}
+#box{
+	color: white;
+}
